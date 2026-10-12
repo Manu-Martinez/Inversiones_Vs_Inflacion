@@ -37,7 +37,7 @@ flowchart LR
 ## Stack
 
 - **Procesamiento:** Python (pandas, requests, yfinance), Google Colab
-- **Almacenamiento:** Google Sheets (`gspread`)
+- **Almacenamiento:** Google Sheets
 - **Visualización:** Looker Studio
 
 ## Fuentes de datos
@@ -109,8 +109,8 @@ flowchart LR
 
 1. Abrí el notebook en Google Colab.
 2. Guardá las credenciales de IOL en los **Secretos de Colab**, sin escribirlas en el código.
-3. Autenticá tu cuenta de Google (`google.colab.auth` + `gspread`) y creá un Sheet llamado `Procesamiento`.
-4. Ejecutá las celdas en orden: el pipeline escribe `Rendimiento_Consolidado`, `_pipeline_log` y `_detalle_errores`.
+3. Autenticá tu cuenta de Google (`google.colab.auth`) y creá un Sheet llamado `Procesamiento`.
+4. Ejecutá el notebook de Google Colab.
 5. Conectá Looker Studio al Sheet y armá las páginas del dashboard.
 
 ---

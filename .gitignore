@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Secretos y credenciales (IOL, Google)
+.env
+.env.*
+*.key
+credentials.json
+token.json
+service_account*.json
+client_secret*.json
+
+# Datos reales o descargados (subí solo data/sample/)
+data/*
+!data/sample/
+!data/schema.md
+
+# PDFs descargados de fuentes externas
+*.pdf
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Temporales
+*.log
+*.tmp
+~$*

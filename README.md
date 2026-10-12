@@ -113,7 +113,8 @@ flowchart LR
 4. Ejecutá las celdas en orden: el pipeline escribe `Rendimiento_Consolidado`, `_pipeline_log` y `_detalle_errores`.
 5. Conectá Looker Studio al Sheet y armá las páginas del dashboard.
 
+---
 ## Autor
 
 **Manuel Martínez** · Data Analyst
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/manuelmartinez92)

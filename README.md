@@ -80,12 +80,12 @@ flowchart LR
 6. **Conclusión:** top 5 de instrumentos individuales y lectura por categoría.
 
 
-![Resumen ejecutivo](docs/img/resumen_ejecutivo.PNG)
-![Renta fija en pesos](docs/img/renta_fija_en_pesos.PNG)
-![Renta variable argentina](docs/img/renta_variable_argentina.PNG)
-![Obligaciones negociables](docs/img/obligaciones_negociables.PNG)
-![Acciones de EE.UU.](docs/img/acciones_de_ee_uu.PNG)
-![Conclusión](docs/img/conclusion.PNG)
+![Resumen ejecutivo](docs/img/1_resumen_ejecutivo.png)
+![Renta fija en pesos](docs/img/2_renta_fija_en_pesos.png)
+![Renta variable argentina](docs/img/3_renta_variable.png)
+![Obligaciones negociables](docs/img/4_obligaciones_negociables.png)
+![Acciones de EE.UU.](docs/img/5_acciones_usa.png)
+![Conclusión](docs/img/6_conclusion.png)
 
 ## Limitaciones conocidas
 

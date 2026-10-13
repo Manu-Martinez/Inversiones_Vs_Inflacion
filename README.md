@@ -79,6 +79,7 @@ flowchart LR
 5. **Acciones de EE.UU.:** "Exposición a EE.UU.: en pesos vs. en dólares". Rendimiento real en pesos por período (vía dólar MEP) y tabla con el rendimiento en dólares.
 6. **Conclusión:** top 5 de instrumentos individuales y lectura por categoría.
 
+🔗 **[Ver el dashboard en vivo](https://datastudio.google.com/reporting/b41f4e33-62d9-4d27-ae0a-5b249c07c527/page/CZbYD)**
 
 ![Resumen ejecutivo](docs/img/1_resumen_ejecutivo.png)
 ![Renta fija en pesos](docs/img/2_renta_fija_en_pesos.png)

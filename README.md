@@ -72,14 +72,14 @@ flowchart LR
 
 ## Dashboard (Looker Studio)
 
+🔗 **[Ver el dashboard en vivo](https://datastudio.google.com/reporting/b41f4e33-62d9-4d27-ae0a-5b249c07c527/page/CZbYD)**
+
 1. **Resumen ejecutivo:** objetivo del análisis, tarjetas de instrumentos destacados, rendimiento real por categoría y cantidad de instrumentos que superaron o no la inflación en cada ventana, con filtro por categoría.
 2. **Renta fija en pesos:** plazo fijo y fondos comunes. Rendimiento a 12 meses por instrumento y tabla de rendimiento vs. inflación por ventana, con formato condicional.
 3. **Renta variable argentina:** CEDEARs y acciones locales. Tarjetas de instrumentos destacados, rendimiento real por instrumento y por período.
 4. **Obligaciones Negociables:** rendimiento real por período y tabla de rendimiento vs. inflación.
 5. **Acciones de EE.UU.:** "Exposición a EE.UU.: en pesos vs. en dólares". Rendimiento real en pesos por período (vía dólar MEP) y tabla con el rendimiento en dólares.
 6. **Conclusión:** top 5 de instrumentos individuales y lectura por categoría.
-
-🔗 **[Ver el dashboard en vivo](https://datastudio.google.com/reporting/b41f4e33-62d9-4d27-ae0a-5b249c07c527/page/CZbYD)**
 
 ![Resumen ejecutivo](docs/img/1_resumen_ejecutivo.png)
 ![Renta fija en pesos](docs/img/2_renta_fija_en_pesos.png)
